@@ -5,10 +5,9 @@
 **Term:** Spring 2020  
 **Time:** Tues and Thurs, 9am - 10:30am  
 **Mimi Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)  
-**GA office hours:**
-**Homework Form**:  
-**Class Homework Wiki**:   
-**NYU Official Syllabus**: https://docs.google.com/document/d/1lbDtHorHbAnfm1uLM2zJuvRyGIFishwNIUThFFgvkGw/edit
+**GA office hours:** Arnab - TBA
+**Homework Form**:  https://forms.gle/m43A2Wevzaxx5UtB8  
+**NYU Official Syllabus**: https://docs.google.com/document/d/1lbDtHorHbAnfm1uLM2zJuvRyGIFishwNIUThFFgvkGw/edit  
 
 
 ## Course Description
@@ -72,7 +71,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 - Do:
   - Set up a blog or website for this class. For more control under the hood, I recommend creating a site using [Github Pages](https://medium.com/spemer/free-github-blog-and-hosting-with-jekyll-c24c408d158f) (for example, [this one](https://github.com/daattali/beautiful-jekyll) is very straightforward). But you can also use Are.na, Tumblr, Canvas, Wordpress, or any other platform. You just need a place where all of your homework goes! 
-  - After you've finished the reading and made your website, post a 250-300 word response on your thoughts about *Bad Writer* on your blog. Why do you think I've asked you to read this piece? What connection does it have to our class? Submit the link to this response using the homework form.  
+  - After you've finished the reading and made your website, post a 250-300 word response on your thoughts about *Bad Writer* on your blog. Why do you think I've asked you to read this piece? What connection does it have to our class? Submit the link to this response using the homework form under Assignment 1.1. 
 
 
 ####Jan 30: Introductions, part 2   
@@ -87,6 +86,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 - Do: 
   - After you've done the readings, write 400-500 words on your relationship to art, and specifically what forms of creative content inspire you. Some starting place questions: What are the types of things you think about when you imagine the work you'd like to create? This can be books, movies, anime, graphic novels, poetry, installations, or any form of creative content. What is it that inspires you about it specifically? Is it the tone, the way it makes you feel, the design work, the twists in the story, etc?   You're here in a program about making art (or at the very least in a class about it), how do you see your relationship to creative content? 
     - Diaz talks about what it means for indigenous people to create art that is necessarily outside of the mainstream. Is there anything about this that resonates with you? Have you thought about what position the art or creative content that you enjoy holds, and what it means for you to like and know about it? 
+    - Make sure to submit your response using the Assignment 1.2 category on the homework form.  
 
 
 ### Week 2
@@ -109,7 +109,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
  **Assignment:** 
 
  - Do: 
-   -  Last week you read "[Bad Writer](https://sydneyreviewofbooks.com/bad-writer/)", by Michael Mohammad Ahmad. In the text, Ahmad talks about the need for those making creative works to have communities who can engage critically with their work.  **Choose the work that most stood out to you and evaluate and respond to it by writing a 400-500 word review/critique of it.**  What is the piece trying to do or say? What about the piece appeals to you? What works about it? What doesn't work? What could make it stronger, and what is adding to or taking away from its impact? Consider aspects like content, form, style, context, etc. Be thorough and thoughtful. Post the response on your blog or website and submit it using the homework form. 
+   -  Last week you read "[Bad Writer](https://sydneyreviewofbooks.com/bad-writer/)", by Michael Mohammad Ahmad. In the text, Ahmad talks about the need for those making creative works to have communities who can engage critically with their work.  **Choose the work that most stood out to you and evaluate and respond to it by writing a 400-500 word review/critique of it.**  What is the piece trying to do or say? What about the piece appeals to you? What works about it? What doesn't work? What could make it stronger, and what is adding to or taking away from its impact? Consider aspects like content, form, style, context, etc. Be thorough and thoughtful. Post the response on your blog or website and submit it using the homework form under the category Assignment 2.2.
      -  NOTE: When I say "critique", I don't mean that you should be mean or aggressive. What I mean is that you should deeply engage with the piece, whether it appealed to you or not. It is totally fine to take the position that the work you are reviewing is a masterpiece, but you do need to explain to us why you think this. 
      -  The link to the list of projects you saw is [here](https://pad.riseup.net/p/CAET2018). You can also find a copy in the week2 folder. 
 
@@ -129,7 +129,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 - Do:
   - Go to an exhibition, gallery, screening, lecture, or event. It must be something that you can't experience just by sitting at your computer, something that you have to physically attend.  Bonus points if it involves digital, new media, technology-focused, or contemporary art. We're missing an essential element of art by not being able to experience the works that we've been talking about, and it will be helpful to you to see a work in its natural habitat. 
-    - Document your experience and write about the exhibition, show, or work that you visited for your homework. Questions to use as starting places: Are you looking at the piece differently now than you would have before you entered the class? How did the context of the work—including but not limited to staging and curation—affect your understanding?  When did you look at the wall text or ask anyone for context on the work? How was the visit overall? Elaborate in your post. 
+    - Document your experience and write about the exhibition, show, or work that you visited for your homework. Questions to use as starting places: Are you looking at the piece differently now than you would have before you entered the class? How did the context of the work—including but not limited to staging and curation—affect your understanding?  When did you look at the wall text or ask anyone for context on the work? How was the visit overall? Elaborate in your post and submit under Assignment 3.1. 
   - Begin brainstorming your project idea.
 - Read:
   - The guidelines for the first project so that you're prepared (find in project1 folder)
@@ -183,7 +183,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 **Assignment:**
 
-- Make sure that you have created a documentation post for your project and submitted it using the homework link. 
+- Make sure that you have created a documentation post for your project and submitted it using the homework link under Project 1. 
 
 #### Feb 27: Present Project 1 
 
@@ -196,7 +196,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
   - [Internet History -- One Page Summary](https://www.livinginternet.com/i/ii_summary.htm)  
   - John Perry Barlow (1996). *A Declaration of the Independence of Cyberspace*. https://www.eff.org/cyberspace-independence   
 - Do:
-  - After you've done the readings, post a 300-500 word response about the history of the Internet. Was it a surprise to you? Do you consider this *your* history? Barlow's declaration, in particular, is a famous document in Internet history because it captures the promise and orientation of many early hackers to the Internet when it was first being shaped. Do you agree with his claims, and do you think they still exist today? 
+  - After you've done the readings, post a 300-500 word response about the history of the Internet. Was it a surprise to you? Do you consider this *your* history? Barlow's declaration, in particular, is a famous document in Internet history because it captures the promise and orientation of many early hackers to the Internet when it was first being shaped. Do you agree with his claims, and do you think they still exist today? Submit using homework form, week 5.2.
 
 ### Week 6 
 
@@ -213,7 +213,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 - Do:
   - look at the [Algorithmic Citizenship](http://citizen-ex.com/citizenship) project by James Bridle
   - check out Ingrid Burrington's [Field Guide to New York](http://seeingnetworks.in/nyc/) (note that Ingrid is a fellow at IMA this semester and can be a useful resource to you!)
-  - Once you've finished all of the readings and other assignments, write a 200-300 word response on one or both of the readings. What stood out to you? What is compelling, what are you still thinking about? What are you considering about the internet that you didn't know before? What do you want to know more about? 
+  - Once you've finished all of the readings and other assignments, write a 200-300 word response on one or both of the readings. What stood out to you? What is compelling, what are you still thinking about? What are you considering about the internet that you didn't know before? What do you want to know more about? Submit using homework form, week 6.1.
 
 #### March 5: The Internet: an infrastructural overview 
 
@@ -222,7 +222,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
  **Assignment:** 
 
 - Do:
-  - In the vein of the Field Guide to New York and the exercise we did in class today, go around your dorm, apartment, or neighborhood and try and notice how much internet infrastructure you see. Take pictures and document the experience on your blog. What are you seeing that you didn't notice before? Is this experience changing your idea of what it means to be "online"? 
+  - In the vein of the Field Guide to New York and the exercise we did in class today, go around your dorm, apartment, or neighborhood and try and notice how much internet infrastructure you see. Take pictures and document the experience on your blog. What are you seeing that you didn't notice before? Is this experience changing your idea of what it means to be "online"? Submit using homework form, Week 6.2.
   - check out this artwork/project: [FIREWALL](https://hyperallergic.com/280849/surf-chinas-censored-web-at-an-internet-cafe-in-new-york/) (Joyce Yu-Jean Lee )
   - fill out this two question form if there is someone in class who you would really like to work with on the next  project or really not like to work with
 - Read:
@@ -248,7 +248,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 - Do:
   - Check out Julia Weist's piece (for background, read [this](https://www.newyorker.com/culture/culture-desk/a-new-word-on-the-internet))
   - Look at the [AdNauseam](https://adnauseam.io/) project (Helen Nissenbaum, Mushon Zer-Aviv)  
-  - Once you've finished the readings, choose two of them to respond to. Write 300-400 words about how the advertising model of the web is related to the  concepts that we discussed last week. Be sure to note the things about the Internet specifically that are standing out to you—remember that you'll be making a work tied to one of these things soon! 
+  - Once you've finished the readings, choose two of them to respond to. Write 300-400 words about how the advertising model of the web is related to the  concepts that we discussed last week. Be sure to note the things about the Internet specifically that are standing out to you—remember that you'll be making a work tied to one of these things soon! (Submit using homework form, week 7.1)
 
 #### March 12: The Internet: advertising, business model, and platform accountability 
 
@@ -257,7 +257,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
  **Assignment:** 
 
 - Do:
-  - By now, you've ingested loads of material about the Internet, and you should have been thinking and writing about which parts are most interesting to you. Be prepared to come to class after Spring Break with a clear direction for a project  that you and your group mates will be ready to implement. You should write about this on your blog and submit using the homework form, but I expect you to have more than just some text about the project. Come with something that shows you've already begun tinkering:  sample code, a mood board, a quick prototype, images, etc. 
+  - By now, you've ingested loads of material about the Internet, and you should have been thinking and writing about which parts are most interesting to you. Be prepared to come to class after Spring Break with a clear direction for a project  that you and your group mates will be ready to implement. You should write about this on your blog and submit using the homework form (week 7.2), but I expect you to have more than just some text about the project. Come with something that shows you've already begun tinkering:  sample code, a mood board, a quick prototype, images, etc. 
   - [optional] Look at the following projects for inspiration over break:
     - [A Refusal](https://americanartist.us/a-refusal) (American Artist)
     - [The Infinite Campaign](https://lav.io/projects/the-infinite-campaign/) (Sam Lavigne)
@@ -295,6 +295,9 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 **Assignment:**
 
+- Do:
+  - Your documentation post for project 2. Use homework form to submit. 
+
 #### April 2: Presentations: Project 2  
 
 *They get more time to present this week, we expect it to be better and far more refined.*
@@ -327,7 +330,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 - Do:
 
-  - Analyze and make sense of the data that you were given, either programmatically o by hand.  What have you learned about the person? Can you figure out who it is?   Post your overview on the blog and make sure that you bring the dataset (either digital or analog) into class next week. 
+  - Analyze and make sense of the data that you were given, either programmatically o by hand.  What have you learned about the person? Can you figure out who it is?   Post your overview on the blog and make sure that you bring the dataset (either digital or analog) into class next week. Submit using homework form, week 10.1.
   - [include more projects for students to look at]
   - Check out this project: [Iyapo Repository](https://creators.vice.com/en_us/article/8qv34x/afrofuturist-museum-artifacts-from-the-future) (Salome Asega  + Ayodamola Okunseinde)
 
@@ -347,7 +350,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
   - Look at Stephanie Dinkin's artwork. 
   - check out the Our Data Bodies project  
   - [include more poetry?] 
-  - Once you've done all the above, write a blogpost or entry on what is standing out to you about these issues. Once again, use this time to organize your thoughts along the way so that when you need to come up with a topic for your project it won't feel daunting. 
+  - Once you've done all the above, write a blogpost or entry on what is standing out to you about these issues. Once again, use this time to organize your thoughts along the way so that when you need to come up with a topic for your project it won't feel daunting. Submit under week 10.2.
 - Read:
   - The project 3 requirements so you're familiar  with them. 
 
@@ -367,7 +370,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 - Do:
 
-  - By now, you've ingested a great deal of material and information about data, automation, and AI. You should be thinking and writing about what aspects, issues, problems, or hunches are developing for you, and what stands out. Can you connect things back to your own personal experience, family, community, country? Write a post about what is brewing in your mind, and what you'd like to explore for your final project. Make sure to submit it using the homework form. 
+  - By now, you've ingested a great deal of material and information about data, automation, and AI. You should be thinking and writing about what aspects, issues, problems, or hunches are developing for you, and what stands out. Can you connect things back to your own personal experience, family, community, country? Write a post about what is brewing in your mind, and what you'd like to explore for your final project. Make sure to submit it using the homework form under week 11.1.
 
 
 #### April 16: Automation and AI [part 2]
@@ -425,7 +428,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 - Do:
 
-  - As you're in the iteration stage, take a brief minute to read the above article and to think about what you've learned this semester. Does the central conceit of the article resonate with you and your experience? Why or why not? 
+  - As you're in the iteration stage, take a brief minute to read the above article and to think about what you've learned this semester. Does the central conceit of the article resonate with you and your experience? Why or why not? Submit under Week 13.1
 
 - Find art pieces for them to look at that review this. 
 
@@ -437,7 +440,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
  **Assignment:** 
 
-- Make sure to leave time to create your documentation post 
+- Make sure to leave time to create your documentation post!
 
 ### Week 14
 

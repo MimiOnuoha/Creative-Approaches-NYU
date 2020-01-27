@@ -6,8 +6,7 @@
 **Time:** Tues and Thurs, 9am - 10:30am  
 **Mimi Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)  
 **GA +  office hours:** Arnab 
-**Homework Form**:  
-**Class Homework Wiki**:   
+**Homework Form**:  https://forms.gle/m43A2Wevzaxx5UtB8  
 **NYU Official Syllabus**: https://docs.google.com/document/d/1lbDtHorHbAnfm1uLM2zJuvRyGIFishwNIUThFFgvkGw/edit
 
 ## Course Description
