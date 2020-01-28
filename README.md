@@ -53,6 +53,26 @@ Arnab and I are both  available for office hours.
 
 For other inquiries, I can be reached via email at all times. During the week I respond to all student emails within 24 hours, during the weekend within 48 hours unless stated otherwise. 
 
+
+## Social Codes 
+
+Here are the social codes we agreed on together on the first day:
+- No isms! And especially no subtle isms 
+
+- No feigned surprise
+
+- A protocol for if we break the social rules:
+
+  - Ouch (point it out)
+  - Oops (acknowledge that you did something, apologize, etc) 
+  - Move on
+
+- Explanation: if an ouch + oops occurs, check in with Mimi or Arnab (or expect one of us so one of us can see if it makes sense to facilitate a discussion on it. 
+
+  
+
+
+
 ------
 
 ## Syllabus
@@ -82,6 +102,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
   - *[Beyond New Media Art](http://www.linkartcenter.eu/public/editions/Domenico_Quaranta_Beyond_New_Media_Art_Link_Editions_ebook_2013.pdf)*, Domenica Quaranta (read pages 20 -41 in the book) 
   - [optional] Kahlil Gibran https://www.poetryfoundation.org/poems/58706/the-pomegranate
 - Do: 
+  - Fill out this survey on skills (link forthcoming)
   - After you've done the readings, write 400-500 words on your relationship to art, and specifically what forms of creative content inspire you. What types of things do you think about when you imagine the work you'd like to create? You can talk about books, movies, anime, plays, musicals, graphic novels, poetry, installations, fanfiction/fanart, or any form of creative content. What is it that inspires you about it specifically? Is it the tone, the way it makes you feel, the design work, the twists in the story, etc?   You're here in a program about making art (or at the very least in a class about it), how do you see your relationship to creative content? 
     - Diaz talks about what it means for indigenous people to create art that is necessarily outside of the mainstream. Is there anything about this that resonates with you? Have you thought about what position the art or creative content that you enjoy holds, and what it means for you to like and know about it? 
 
