@@ -7,6 +7,8 @@
 **Mimi Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)  
 **GA +  office hours:** Arnab   
 **Homework Form**:  https://forms.gle/m43A2Wevzaxx5UtB8  
+**Submitted Homework Spreadsheet**: https://docs.google.com/spreadsheets/d/1BC3FaOsLf2JWXiw2RU1sdlfP3_trR5VoF9_bm-2IEX0/edit?usp=sharing (you can check here to see if your assignment was submitted)
+**Full Syllabus**: https://github.com/MimiOnuoha/Creative-Approaches-NYU/blob/master/syllabus.md
 **NYU Official Syllabus**: https://docs.google.com/document/d/1lbDtHorHbAnfm1uLM2zJuvRyGIFishwNIUThFFgvkGw/edit
 
 ## Course Description
@@ -102,7 +104,8 @@ Here are the social codes we agreed on together on the first day:
   - *[Beyond New Media Art](http://www.linkartcenter.eu/public/editions/Domenico_Quaranta_Beyond_New_Media_Art_Link_Editions_ebook_2013.pdf)*, Domenica Quaranta (read pages 20 -41 in the book) 
   - [optional] Kahlil Gibran https://www.poetryfoundation.org/poems/58706/the-pomegranate
 - Do: 
-  - Fill out this survey on skills (link forthcoming)
+  - Fill out this survey on skills: https://www.google.com/url?q=https://forms.gle/cGp4KpWC8rHzuxHq7&source=gmail&ust=1580484464910000&usg=AFQjCNFDkuyD_Yvog7gCpZsar4ZJIOTyiw
+  - Fill out the office hours Doodle: https://doodle.com/poll/b954zydr7a5cw3vs
   - After you've done the readings, write 400-500 words on your relationship to art, and specifically what forms of creative content inspire you. What types of things do you think about when you imagine the work you'd like to create? You can talk about books, movies, anime, plays, musicals, graphic novels, poetry, installations, fanfiction/fanart, or any form of creative content. What is it that inspires you about it specifically? Is it the tone, the way it makes you feel, the design work, the twists in the story, etc?   You're here in a program about making art (or at the very least in a class about it), how do you see your relationship to creative content? 
     - Diaz talks about what it means for indigenous people to create art that is necessarily outside of the mainstream. Is there anything about this that resonates with you? Have you thought about what position the art or creative content that you enjoy holds, and what it means for you to like and know about it? 
 
