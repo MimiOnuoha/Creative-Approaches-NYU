@@ -7,9 +7,9 @@
 **Mimi Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)  
 **GA +  office hours:** Arnab   
 **Homework Form**:  https://forms.gle/m43A2Wevzaxx5UtB8  
-**Submitted Homework Spreadsheet**: https://docs.google.com/spreadsheets/d/1BC3FaOsLf2JWXiw2RU1sdlfP3_trR5VoF9_bm-2IEX0/edit?usp=sharing (you can check here to see if your assignment was submitted)
-**Full Syllabus**: https://github.com/MimiOnuoha/Creative-Approaches-NYU/blob/master/syllabus.md
-**NYU Official Syllabus**: https://docs.google.com/document/d/1lbDtHorHbAnfm1uLM2zJuvRyGIFishwNIUThFFgvkGw/edit
+**Submitted Homework Spreadsheet**: https://docs.google.com/spreadsheets/d/1BC3FaOsLf2JWXiw2RU1sdlfP3_trR5VoF9_bm-2IEX0/edit?usp=sharing (you can check here to see if your assignment was submitted)  
+**Full Syllabus**: https://github.com/MimiOnuoha/Creative-Approaches-NYU/blob/master/syllabus.md  
+**NYU Official Syllabus**: https://docs.google.com/document/d/1lbDtHorHbAnfm1uLM2zJuvRyGIFishwNIUThFFgvkGw/edit  
 
 ## Course Description
 
