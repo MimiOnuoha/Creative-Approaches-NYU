@@ -89,7 +89,7 @@ Here are the social codes we agreed on together on the first day:
 
 - Do:
 
-  - If you didn't make it through the list of examples from class, make sure that you look at all of them before class on Thursday! The link to the list of projects you saw is [here]() (https://pad.riseup.net/p/CAEM-NYU-tmp). You can also find a copy in the week2 folder. 
+  - Look at the rest of the examples of work! The link to the list of projects you saw is [here](https://pad.riseup.net/p/CAEM-NYU). You can also find a copy in the week2 folder. 
 
   
 

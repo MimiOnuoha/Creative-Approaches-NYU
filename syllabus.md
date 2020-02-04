@@ -127,7 +127,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
   **Assignment:** 
 
 - Do:
-  - Go to an exhibition, gallery, screening, lecture, or event. It must be something that you can't experience just by sitting at your computer, something that you have to physically attend.  Bonus points if it involves digital, new media, technology-focused, or contemporary art. We're missing an essential element of art by not being able to experience the works that we've been talking about, and it will be helpful to you to see a work in its natural habitat. 
+  - Go to an exhibition, gallery, screening, lecture, video game cafe, film or event. It must be something that you can't experience just by sitting at your computer, something that you have to physically attend, and it should involve media art or technology + art in some way. We're missing an essential element of art by not being able to experience the works that we've been talking about, and it will be helpful to you to see a work in its natural habitat. 
     - Document your experience and write about the exhibition, show, or work that you visited for your homework. Questions to use as starting places: Are you looking at the piece differently now than you would have before you entered the class? How did the context of the work—including but not limited to staging and curation—affect your understanding?  When did you look at the wall text or ask anyone for context on the work? How was the visit overall? Elaborate in your post and submit under Assignment 3.1. 
   - Begin brainstorming your project idea.
 - Read:
@@ -164,6 +164,8 @@ For other inquiries, I can be reached via email at all times. During the week I 
   - [optional] James Baldwin, "[On the Creative Process](https://www.brainpickings.org/2014/08/20/james-baldwin-the-creative-process/)"
 
     
+    
+    
 
 #### Feb 20: On presenting work 
 
@@ -171,7 +173,10 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
  **Assignment:** 
 
-- Work on your project! 
+- Do:
+  - Work on your project! 
+- Read:
+  - [optional] ["Bullshit makes the art grow profounder"](http://journal.sjdm.org/19/190712/jdm190712.pdf)
 
 ### Week 5
 
