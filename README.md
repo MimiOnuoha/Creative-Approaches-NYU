@@ -79,6 +79,38 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
+### Week 2
+
+#### Feb 4: New Media Art  
+
+  *What is new media art? An introduction via an array of examples*
+
+  **Assignment:** 
+
+- Do:
+
+  - If you didn't make it through the list of examples from class, make sure that you look at all of them before class on Thursday! The link to the list of projects you saw is [here]() (https://pad.riseup.net/p/CAEM-NYU-tmp). You can also find a copy in the week2 folder. 
+
+  
+
+#### Feb 6: Evaluating New Media Art 
+
+  *We continue our discussion of the examples from class on Tuesday. What stood out to you? What did you notice?* 
+
+ **Assignment:** 
+
+- Do: 
+
+  - Last week you read "[Bad Writer](https://sydneyreviewofbooks.com/bad-writer/)", by Michael Mohammad Ahmad. In the text, Ahmad talks about the need for those making creative works to have communities who can engage critically with their work.  **Choose the work that most stood out to you and evaluate and respond to it by writing a 400-500 word review/critique of it.**  What is the piece trying to do or say? What about the piece appeals to you? What works about it? What doesn't work? What could make it stronger, and what is adding to or taking away from its impact? Consider aspects like content, form, style, context, etc. Be thorough and thoughtful. Post the response on your blog or website and submit it using the homework form under the category Assignment 2.2.
+    - NOTE: When I say "critique", I don't mean that you should be mean or aggressive. What I mean is that you should deeply engage with the piece, whether it appealed to you or not. It is totally fine to take the position that the work you are reviewing is a masterpiece, but you do need to explain to us why you think this. 
+    - The link to the list of projects you saw is [here](https://pad.riseup.net/p/CAET2018). You can also find a copy in the week2 folder. 
+
+- Read:
+
+  - Olia Lialina, "Not Art&Tech". http://contemporary-home-computing.org/art-and-tech/not
+
+    
+
 ### Week 1
 
 #### Jan 28:  **Introductions, part 1**   
@@ -111,35 +143,5 @@ Here are the social codes we agreed on together on the first day:
 
 
 
-### Week 2
-
-#### Feb 4: New Media Art  
-
-  *What is new media art? An introduction via an array of examples*
-
-  **Assignment:** 
-
-- Do:
-
-  - If you didn't make it through the list of examples from class, make sure that you look at all of them before class on Thursday! The link to the list of projects you saw is [here]() (link forthcoming). You can also find a copy in the week2 folder. 
-
-  
-
-#### Feb 6: Evaluating New Media Art 
-
-  *We continue our discussion of the examples from class on Tuesday. What stood out to you? What did you notice?* 
-
- **Assignment:** 
-
-- Do: 
-
-  - Last week you read "[Bad Writer](https://sydneyreviewofbooks.com/bad-writer/)", by Michael Mohammad Ahmad. In the text, Ahmad talks about the need for those making creative works to have communities who can engage critically with their work.  **Choose the work that most stood out to you and evaluate and respond to it by writing a 400-500 word review/critique of it.**  What is the piece trying to do or say? What about the piece appeals to you? What works about it? What doesn't work? What could make it stronger, and what is adding to or taking away from its impact? Consider aspects like content, form, style, context, etc. Be thorough and thoughtful. Post the response on your blog or website and submit it using the homework form under the category Assignment 2.2.
-    - NOTE: When I say "critique", I don't mean that you should be mean or aggressive. What I mean is that you should deeply engage with the piece, whether it appealed to you or not. It is totally fine to take the position that the work you are reviewing is a masterpiece, but you do need to explain to us why you think this. 
-    - The link to the list of projects you saw is [here](https://pad.riseup.net/p/CAET2018). You can also find a copy in the week2 folder. 
-
-- Read:
-
-  - Olia Lialina, "Not Art&Tech". http://contemporary-home-computing.org/art-and-tech/not
-
-    
+- - 
 
