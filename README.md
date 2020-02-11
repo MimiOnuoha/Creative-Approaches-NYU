@@ -4,8 +4,8 @@
 **Contact:** cgo221@nyu.edu	   
 **Term:** Spring 2020  
 **Time:** Tues and Thurs, 9am - 10:30am  
-**Mimi Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)  
-**GA +  office hours:** Arnab   
+**Mimi Office Hours:** [sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU) (meet at Mimi's desk in the South Faculty Studio)   
+**Arnab's office hours:** Monday 5-6pm and Tuesday 2-3pm (you can find him in the IMA area close to the resident's office, North side of the floor)   
 **Homework Form**:  https://forms.gle/m43A2Wevzaxx5UtB8  
 **Submitted Homework Spreadsheet**: https://docs.google.com/spreadsheets/d/1BC3FaOsLf2JWXiw2RU1sdlfP3_trR5VoF9_bm-2IEX0/edit?usp=sharing (you can check here to see if your assignment was submitted)  
 **Full Syllabus**: https://github.com/MimiOnuoha/Creative-Approaches-NYU/blob/master/syllabus.md  
@@ -45,7 +45,7 @@ This is not strictly a technical class. With the exception of a couple of lesson
 
 This class is an inclusive and harassment-free space for everyone, with no tolerations of discrimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.  
 
-All homework should be completed and submitted using the homework form the night before the day that it is due. 
+All homework should be completed and submitted using the homework form the night before the day that it is due. No late work is accepted! 
 
 In accordance with NYU policy, students are allowed a maximum of two absences. It is worth stressing that because the class covers so much new material, it is very much to your advantage to not miss any classes, if possible. 
 
@@ -100,7 +100,8 @@ Here are the social codes we agreed on together on the first day:
   **Assignment:** 
 
 - Do:
-  - **Note: this assignment is due  on 2/18.** Go to an exhibition, gallery, or art screening/lecture. It must be something that you can't experience just by sitting at your computer, something that you have to physically attend, and it should involve media art in some way. 
+  - Come to class on Thursday with some initial ideas for your project! 
+  - **Note: the following assignment is due  on 2/18.** Go to an exhibition, gallery, or art screening/lecture. It must be something that you can't experience just by sitting at your computer, something that you have to physically attend, and it should involve media art in some way. 
     - Document your experience and write about the exhibition, show, or work that you visited for your homework. Questions to use as starting places: What exhibition or event did you go to? What work stood out to you? If none of them did, why not? What didn't resonate with you? Describe the mood, the tone, and the qualities of the work, and then describe your reactions.  How did the context of the work—including but not limited to staging and curation—affect your understanding?  Did you look at the wall text or ask anyone for context on the work?  How was the visit overall? Elaborate in your post and submit under Assignment 3.1.  
 - Read:
   - The guidelines for the first project (find in project1 folder)
@@ -125,11 +126,15 @@ Here are the social codes we agreed on together on the first day:
  **Assignment:** 
 
 - Do:
-  - Work on your project! Bring in a prototype of something for class on Tuesday. It can be a sketch, a paper prototype, the beginnings of a website, code for a game, etc. Just something that shows you've made progress since our last meeting. 
+
+  - Work on your project! Make some substantial progress. Bring in a prototype of something for class on Tuesday. It can be a sketch, a paper prototype, the beginnings of a website, code for a game, etc. Just something that shows you've made progress since our last meeting. 
   - Go to an exhibition if you haven't done it yet, and post your response under assignment 3.1. 
+
 - Read:
-  - read through Jentery Sayer's [Before You Make A Thing](https://jentery.github.io/ts200v2/notes.html). This is composed of tips, questions, and prototyping techniques that may be useful for you going forward. 
-  - *Just Art Stuff* (readings folder)
+
+  - skim through Jentery Sayer's [Before You Make A Thing](https://jentery.github.io/ts200v2/notes.html). This is composed of tips, questions, and prototyping techniques that may be useful for you going forward. 
+
+    
 
 ### Week 2
 
