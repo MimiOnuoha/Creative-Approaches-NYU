@@ -114,9 +114,8 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 - Read:
 
-  - Olia Lialina, "Not Art&Tech". http://contemporary-home-computing.org/art-and-tech/not
+  - Olia Lialina, "Not Art&Tech". http://contemporary-home-computing.org/art-and-tech/not 
 
-    
 
 ### Week 3
 
@@ -127,22 +126,35 @@ For other inquiries, I can be reached via email at all times. During the week I 
   **Assignment:** 
 
 - Do:
-  - Go to an exhibition, gallery, screening, lecture, video game cafe, film or event. It must be something that you can't experience just by sitting at your computer, something that you have to physically attend, and it should involve media art or technology + art in some way. We're missing an essential element of art by not being able to experience the works that we've been talking about, and it will be helpful to you to see a work in its natural habitat. 
-    - Document your experience and write about the exhibition, show, or work that you visited for your homework. Questions to use as starting places: Are you looking at the piece differently now than you would have before you entered the class? How did the context of the work—including but not limited to staging and curation—affect your understanding?  When did you look at the wall text or ask anyone for context on the work? How was the visit overall? Elaborate in your post and submit under Assignment 3.1. 
-  - Begin brainstorming your project idea.
+  - **Note: this assignment is due  on 2/18.** Go to an exhibition, gallery, or art screening/lecture. It must be something that you can't experience just by sitting at your computer, something that you have to physically attend, and it should involve media art in some way. 
+    - Document your experience and write about the exhibition, show, or work that you visited for your homework. Questions to use as starting places: What exhibition or event did you go to? What work stood out to you? If none of them did, why not? What didn't resonate with you? Describe the mood, the tone, and the qualities of the work, and then describe your reactions.  How did the context of the work—including but not limited to staging and curation—affect your understanding?  Did you look at the wall text or ask anyone for context on the work?  How was the visit overall? Elaborate in your post and submit under Assignment 3.1.  
 - Read:
-  - The guidelines for the first project so that you're prepared (find in project1 folder)
+  - The guidelines for the first project (find in project1 folder)
+- Exhibitions running now: 
+  - *[The Question of Intelligence](https://www.newschool.edu/parsons/all-exhibitions/?id=17179880749)* (at Parsons, Sheila C. Johnson Design Center)
+  - *[Embodiments](https://www.blackbird.gallery/exhibitions/14-embodiments-a-solo-exhibition-of-ai-sculptures-and-robot/works/)* (Ben Snell) Blackbird Gallery 
+  - [*Wet Logic*](https://bitforms.art/exhibitions/wet-logic) (Marina Zurkow and Sarah Rothberg), Bitforms Gallery
+  - [*Chaotic Interfaces*](https://www.babycastles.com/chaoticinterfaces), Babycastles 
+  - [*Souls Grown Diaspora*](https://apexart.cargo.site/Souls-Grown-Diaspora), apex art 
+  - [*Vicious Frames*](http://www.postmastersart.com/archive/vicious20/vicious20_direct.html), Postmasters Gallery
+  - [Agnes Denes: Absolutes and Intermediates](https://theshed.org/program/6-agnes-denes-absolutes-and-intermediates), The Shed
+  - *[Force Life](https://www.moma.org/calendar/exhibitions/5196)* (Shahryar Nashat), MoMA
+  - [*Marking Time: Process in Minimal Abstraction*](https://www.guggenheim.org/exhibition/marking-time-process-in-minimal-abstraction), Guggenheim
+  - *[Handles](https://www.guggenheim.org/exhibition/marking-time-process-in-minimal-abstraction)* (Haegue Yang), MoMA
+  - [*Zilia Sánchez: Soy Isla*](https://www.elmuseo.org/zilia-sanchez/) - El Museo del Barrio
+  - *[Christie Neptune: Constructs and Context Relativity: Performance I](https://www.bricartsmedia.org/art-exhibitions/christie-neptune-constructs-and-context-relativity-performance-i)*, BRIC House Project Room (doesn't open til Feb 20, email me separately if you want to go to this)
 
 #### Feb 13: Work on Project 1 
 
-  *Time in class to work on and discuss the project. Arnab and I will meet with each of the students and check in with them on different aspects.*
+  *Time in class to work on and discuss the project. Arnab and I will lead the class in an activity and meet with each of you to check in about different aspects of the project.*
 
  **Assignment:** 
 
 - Do:
-  - Work on your project! 
+  - Work on your project! Bring in a prototype of something for class on Tuesday. It can be a sketch, a paper prototype, the beginnings of a website, code for a game, etc. Just something that shows you've made progress since our last meeting. 
+  - Go to an exhibition if you haven't done it yet, and post your response under assignment 3.1. 
 - Read:
-  - Jentery Sayer's [Before You Make A Thing](https://jentery.github.io/ts200v2/notes.html)  
+  - read through Jentery Sayer's [Before You Make A Thing](https://jentery.github.io/ts200v2/notes.html). This is composed of tips, questions, and prototyping techniques that may be useful for you going forward. 
   - *Just Art Stuff* (readings folder)
 
 ### Week 4
@@ -212,6 +224,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 - Read: 
   - Julian Oliver - [Stealth Infrastructure](http://rhizome.org/editorial/2014/may/20/stealth-infrastructure/)   
   - Kinniburgh, Colin. 'Beyond "Conflict Minerals": The Congo's Resource Curse Lives On.' Dissent Magazine, Spring 2014 issue. https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on 
+  - Jane Black, NYTimes, [Tiny Tuvalu Profits From Web Name](https://www.nytimes.com/2000/09/04/business/tiny-tuvalu-profits-from-web-name.html)
   - Data & Society [Online Harassment, Digital Abuse](https://datasociety.net/blog/2017/01/18/online-harassment-digital-abuse/) blog post (2017)
 - Do:
   - look at the [Algorithmic Citizenship](http://citizen-ex.com/citizenship) project by James Bridle

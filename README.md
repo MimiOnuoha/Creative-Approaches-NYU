@@ -49,6 +49,16 @@ All homework should be completed and submitted using the homework form the night
 
 In accordance with NYU policy, students are allowed a maximum of two absences. It is worth stressing that because the class covers so much new material, it is very much to your advantage to not miss any classes, if possible. 
 
+## Evaluation
+
+Grades for the course will follow the standard A through F letter grading system and will be determined by the following breakdown:
+
+*25%* Homework and Class Participation   
+*10%* Classmate Project Evaluations  
+*20%* Project 1  
+*20%* Project 2  
+*25%* Project 3    
+
 ## Communication 
 
 Arnab and I are both  available for office hours. 
@@ -78,6 +88,48 @@ Here are the social codes we agreed on together on the first day:
 ------
 
 ## Syllabus
+
+
+
+### Week 3
+
+#### Feb 11: Introduction to Project 1   
+
+  *Summarize what we've covered in the first two weeks and discuss the first project. Provide a sample of working through a project in class as a group exercise (going from nothing to something)*
+
+  **Assignment:** 
+
+- Do:
+  - **Note: this assignment is due  on 2/18.** Go to an exhibition, gallery, or art screening/lecture. It must be something that you can't experience just by sitting at your computer, something that you have to physically attend, and it should involve media art in some way. 
+    - Document your experience and write about the exhibition, show, or work that you visited for your homework. Questions to use as starting places: What exhibition or event did you go to? What work stood out to you? If none of them did, why not? What didn't resonate with you? Describe the mood, the tone, and the qualities of the work, and then describe your reactions.  How did the context of the work—including but not limited to staging and curation—affect your understanding?  Did you look at the wall text or ask anyone for context on the work?  How was the visit overall? Elaborate in your post and submit under Assignment 3.1.  
+- Read:
+  - The guidelines for the first project (find in project1 folder)
+- Exhibitions running now: 
+  - *[The Question of Intelligence](https://www.newschool.edu/parsons/all-exhibitions/?id=17179880749)* (at Parsons, Sheila C. Johnson Design Center)
+  - *[Embodiments](https://www.blackbird.gallery/exhibitions/14-embodiments-a-solo-exhibition-of-ai-sculptures-and-robot/works/)* (Ben Snell) Blackbird Gallery 
+  - [*Wet Logic*](https://bitforms.art/exhibitions/wet-logic) (Marina Zurkow and Sarah Rothberg), Bitforms Gallery
+  - [*Chaotic Interfaces*](https://www.babycastles.com/chaoticinterfaces), Babycastles 
+  - [*Souls Grown Diaspora*](https://apexart.cargo.site/Souls-Grown-Diaspora), apex art 
+  - [*Vicious Frames*](http://www.postmastersart.com/archive/vicious20/vicious20_direct.html), Postmasters Gallery
+  - [Agnes Denes: Absolutes and Intermediates](https://theshed.org/program/6-agnes-denes-absolutes-and-intermediates), The Shed
+  - *[Force Life](https://www.moma.org/calendar/exhibitions/5196)* (Shahryar Nashat), MoMA
+  - [*Marking Time: Process in Minimal Abstraction*](https://www.guggenheim.org/exhibition/marking-time-process-in-minimal-abstraction), Guggenheim
+  - *[Handles](https://www.guggenheim.org/exhibition/marking-time-process-in-minimal-abstraction)* (Haegue Yang), MoMA
+  - [*Zilia Sánchez: Soy Isla*](https://www.elmuseo.org/zilia-sanchez/) - El Museo del Barrio
+  - *[Christie Neptune: Constructs and Context Relativity: Performance I](https://www.bricartsmedia.org/art-exhibitions/christie-neptune-constructs-and-context-relativity-performance-i)*, BRIC House Project Room (doesn't open til Feb 20, email me separately if you want to go to this)
+
+#### Feb 13: Work on Project 1 
+
+  *Time in class to work on and discuss the project. Arnab and I will lead the class in an activity and meet with each of you to check in about different aspects of the project.*
+
+ **Assignment:** 
+
+- Do:
+  - Work on your project! Bring in a prototype of something for class on Tuesday. It can be a sketch, a paper prototype, the beginnings of a website, code for a game, etc. Just something that shows you've made progress since our last meeting. 
+  - Go to an exhibition if you haven't done it yet, and post your response under assignment 3.1. 
+- Read:
+  - read through Jentery Sayer's [Before You Make A Thing](https://jentery.github.io/ts200v2/notes.html). This is composed of tips, questions, and prototyping techniques that may be useful for you going forward. 
+  - *Just Art Stuff* (readings folder)
 
 ### Week 2
 
