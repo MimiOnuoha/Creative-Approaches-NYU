@@ -91,6 +91,40 @@ Here are the social codes we agreed on together on the first day:
 
 
 
+### Week 4
+
+#### Feb 18: Art as Argument, Technology as Material 
+
+  *Projects projects projects.*
+
+ **Assignment:** 
+
+- Do:
+
+  - Work on your project! 
+
+- Read:  
+
+  - [optional] Zadie Smith, "[Dance Lessons for Writers](https://www.theguardian.com/books/2016/oct/29/zadie-smith-what-beyonce-taught-me)" 
+
+  - [optional] James Baldwin, "[On the Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf)"
+
+    
+
+    
+
+#### Feb 20: On presenting work 
+
+  *A quick discussion about presenting work and documenting work. Maybe we can bring Rob in to do a quick demo on staging things, using equipment from the ER, etc? Or a resident can come in and talk about this.  Then the rest of the class is time to work.* 
+
+ **Assignment:** 
+
+- Do:
+  - Work on your project! 
+- Read:
+  - [optional] ["Bullshit makes the art grow profounder"](http://journal.sjdm.org/19/190712/jdm190712.pdf)
+  - [optional] "[Jeff Koons and the Artwork of Late Capitalism](https://www.academia.edu/33571540/Jeff_Koons_and_the_Artwork_of_Late_Capitalism)", Jan Philipp Nühlen
+
 ### Week 3
 
 #### Feb 11: Introduction to Project 1   

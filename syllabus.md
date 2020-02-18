@@ -161,7 +161,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
 #### Feb 18: Art as Argument, Technology as Material 
 
-  *Discussion of the readings, and of what it means to see art as an argument. This is useful while they're working on their projects.*
+  *Projects projects projects.*
 
  **Assignment:** 
 
@@ -173,7 +173,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
 
   - [optional] Zadie Smith, "[Dance Lessons for Writers](https://www.theguardian.com/books/2016/oct/29/zadie-smith-what-beyonce-taught-me)" 
 
-  - [optional] James Baldwin, "[On the Creative Process](https://www.brainpickings.org/2014/08/20/james-baldwin-the-creative-process/)"
+  - [optional] James Baldwin, "[On the Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf)"
 
     
     
@@ -189,6 +189,7 @@ For other inquiries, I can be reached via email at all times. During the week I 
   - Work on your project! 
 - Read:
   - [optional] ["Bullshit makes the art grow profounder"](http://journal.sjdm.org/19/190712/jdm190712.pdf)
+  - [optional] "[Jeff Koons and the Artwork of Late Capitalism](https://www.academia.edu/33571540/Jeff_Koons_and_the_Artwork_of_Late_Capitalism)", Jan Philipp Nühlen
 
 ### Week 5
 
