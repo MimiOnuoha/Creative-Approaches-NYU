@@ -19,3 +19,34 @@ Your presentations should be about 7 minutes long.  For your presentation, walk 
 
 You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) on your blog that accompanies the project. Upload it using the homework link. 
 
+You'll be evaluated based on your concept (did you have a clear vision?), technique (did the decisions that you made around form, genre, aesthetic, etc support the general concept), research (is your work in conversation with the original piece), and presentation/impact (did you present your work in a way that we could understand it? what stands out about the work that you did?)
+
+
+## Order and days 
+
+### Tuesday 
+- Sarah
+- Bailey
+- James B. 
+- Jasmine
+- Carly
+- Nina
+- Timmy
+- James L
+- Andri 
+
+### Thursday
+- Niki
+- Wanlun
+- Korin
+- Elaine
+- Rosie
+- Jide
+- Lucas
+- Tori 
+
+
+Your presentations should be about 7 minutes long.  For your presentation, walk us through your project from start to finish. What was the project that you were responding to, and how did you think about how to approach doing this?  What did you end up with as a final piece? In which ways is your piece different from the original, and which aspects were you focused on changing or replicating? You should use slides to present your work. 
+
+You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) on your blog that accompanies the project. Upload it using the homework link. 
+

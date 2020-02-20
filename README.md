@@ -120,7 +120,7 @@ Here are the social codes we agreed on together on the first day:
  **Assignment:** 
 
 - Do:
-  - Work on your project! 
+  - Work on your project. Remember that you need to create a documentation post for your final project that includes the original work you're responding to, what you made, how/why you made it, and photos/video/sound of the work 
 - Read:
   - [optional] ["Bullshit makes the art grow profounder"](http://journal.sjdm.org/19/190712/jdm190712.pdf)
   - [optional] "[Jeff Koons and the Artwork of Late Capitalism](https://www.academia.edu/33571540/Jeff_Koons_and_the_Artwork_of_Late_Capitalism)", Jan Philipp Nühlen
