@@ -46,7 +46,7 @@ You'll be evaluated based on your concept (did you have a clear vision?), techni
 - Tori 
 
 
-Your presentations should be about 7 minutes long.  For your presentation, walk us through your project from start to finish. What was the project that you were responding to, and how did you think about how to approach doing this?  What did you end up with as a final piece? In which ways is your piece different from the original, and which aspects were you focused on changing or replicating? You should use slides to present your work. 
+Your presentations should be about 7 minutes long.  For your presentation, walk us through your project. What was the project that you were responding to, and how did you think about how to approach doing this?  What did you end up with as a final piece? How or what is diffferent about your work compared to the original one? You don't have to use slides to present, and don't forget to let us experience the actual work. 
 
 You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) on your blog that accompanies the project. Upload it using the homework link. 
 

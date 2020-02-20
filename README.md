@@ -74,21 +74,15 @@ Here are the social codes we agreed on together on the first day:
 - No feigned surprise
 
 - A protocol for if we break the social rules:
-
   - Ouch (point it out)
   - Oops (acknowledge that you did something, apologize, etc) 
   - Move on
 
 - Explanation: if an ouch + oops occurs, check in with Mimi or Arnab (or expect one of us so one of us can see if it makes sense to facilitate a discussion on it. 
 
-  
-
-
-
 ------
 
 ## Syllabus
-
 
 
 ### Week 4
@@ -100,18 +94,14 @@ Here are the social codes we agreed on together on the first day:
  **Assignment:** 
 
 - Do:
-
-  - Work on your project! 
+  - Work on your project. Check the [project 1 guidelines](https://github.com/MimiOnuoha/Creative-Approaches-NYU/blob/master/projects/project1_guidelines.md) document for more information on presentations, evaluations, and order for next week.  
 
 - Read:  
-
   - [optional] Zadie Smith, "[Dance Lessons for Writers](https://www.theguardian.com/books/2016/oct/29/zadie-smith-what-beyonce-taught-me)" 
-
   - [optional] James Baldwin, "[On the Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf)"
 
     
 
-    
 
 #### Feb 20: On presenting work 
 
