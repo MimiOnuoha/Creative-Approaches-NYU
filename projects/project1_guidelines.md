@@ -2,8 +2,8 @@
 
 ## Overview
 
-**Topic: Response to existing artwork**
-**Due date: February 25**
+**Topic: Response to existing artwork**  
+**Due date: February 25**  
 
 We've spent the last couple of weeks thinking deeply what it means to make artworks and creative interventions. For your first project assignment, you are tasked with creating a project that engages with both of these. 
 
