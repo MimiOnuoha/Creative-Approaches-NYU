@@ -208,17 +208,17 @@ For other inquiries, I can be reached via email at all times. During the week I 
  **Assignment:** 
 
 - Read: 
-  - Excerpt from the book "Code" by Maureen 
+  - Excerpt from the book "Code" by Maureen (To be added on Friday)
   - [Internet History -- One Page Summary](https://www.livinginternet.com/i/ii_summary.htm)  
   - John Perry Barlow (1996). *A Declaration of the Independence of Cyberspace*. https://www.eff.org/cyberspace-independence   
-- Do:
+- Do: 
   - After you've done the readings, post a 300-500 word response about the history of the Internet. Was it a surprise to you? Do you consider this *your* history? Barlow's declaration, in particular, is a famous document in Internet history because it captures the promise and orientation of many early hackers to the Internet when it was first being shaped. Do you agree with his claims, and do you think they still exist today? Submit using homework form, week 5.2.
 
 ### Week 6 
 
 #### March 3: The Internet: an historical overview
 
-  *We spent the first six weeks walking through the process of what it means to do creative work, everything from evaluation, to what the work does, to how we present and show it. But that was all priming us to be able to do this is in a grander way, where we're responding to actual emerging technology. For the rest of the semester, we'll be focusing on two large topics: the internet and data + automation. You'll learn how to think about these from different perspectives and points of view, and then you'll be tasked with creating a piece that responds to it.*
+  *We spent the first six weeks walking through the process of what it means to do creative work, everything from evaluation, to what the work does, to how we present and show it. But that was all priming us to be able to do this is in a grander way, where we're responding to actual emerging technology. For the rest of the semester, we'll be focusing on two large topics: the internet and data + automation. You'll learn how to think about these from different perspectives and points of view, and then you'll be tasked with creating word that responds to them. We begin with the internet.*
 
 **Assignment:**
 

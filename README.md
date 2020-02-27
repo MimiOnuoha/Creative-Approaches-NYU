@@ -84,6 +84,29 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
+### Week 5
+
+#### Feb 25: Present Project 1 
+
+  *First half of class presents projects .*
+
+**Assignment:**
+
+- Make sure that you have created a documentation post for your project and submitted it using the homework link under Project 1. 
+
+#### Feb 27: Present Project 1 
+
+*Second half of class presents projects .*
+
+ **Assignment:** 
+
+- Read: 
+  - Excerpt from the book "Code" by Maureen (**Check back by Friday for this link!** )
+  - [Internet History -- One Page Summary](https://www.livinginternet.com/i/ii_summary.htm)  
+  - John Perry Barlow (1996). [*A Declaration of the Independence of Cyberspace*](https://www.eff.org/cyberspace-independence   ). 
+- Do: 
+  - After you've done the readings, post a 300-500 word response about the history of the Internet. Was it a surprise to you? Do you consider this *your* history? Barlow's declaration, in particular, is a famous document in Internet history because it captures the promise and orientation of many early hackers to the Internet when it was first being shaped. Do you agree with his claims, and do you think they still exist today? Submit using homework form, week 5.2.
+
 
 ### Week 4
 
@@ -94,8 +117,9 @@ Here are the social codes we agreed on together on the first day:
  **Assignment:** 
 
 - Do:
-  - Work on your project. Check the [project 1 guidelines](https://github.com/MimiOnuoha/Creative-Approaches-NYU/blob/master/projects/project1_guidelines.md) document for more information on presentations, evaluations, and order for next week.  
-
+  
+- Work on your project. Check the [project 1 guidelines](https://github.com/MimiOnuoha/Creative-Approaches-NYU/blob/master/projects/project1_guidelines.md) document for more information on presentations, evaluations, and order for next week.  
+  
 - Read:  
   - [optional] Zadie Smith, "[Dance Lessons for Writers](https://www.theguardian.com/books/2016/oct/29/zadie-smith-what-beyonce-taught-me)" 
   - [optional] James Baldwin, "[On the Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf)"
