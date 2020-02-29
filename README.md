@@ -105,7 +105,7 @@ Here are the social codes we agreed on together on the first day:
   - [Internet History -- One Page Summary](https://www.livinginternet.com/i/ii_summary.htm)  
   - John Perry Barlow (1996). [*A Declaration of the Independence of Cyberspace*](https://www.eff.org/cyberspace-independence   ). 
 - Do: 
-  - After you've done the readings, post a 300-500 word response about the history of the Internet. Was it a surprise to you? Do you consider this *your* history? Barlow's declaration, in particular, is a famous document in Internet history because it captures the promise and orientation of many early hackers to the Internet when it was first being shaped. Do you agree with his claims, and do you think they still exist today? Submit using homework form, week 5.2.
+  - Barlow's declaration is a famous document in Internet history because it captures the promise and orientation of many early hackers to the Internet when it was first being shaped. Do you agree with his claims, and do you think they still exist today? In addition, what do you know about the Internet more generally? Submit using homework form, week 5.2.
 
 
 ### Week 4
