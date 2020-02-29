@@ -101,7 +101,7 @@ Here are the social codes we agreed on together on the first day:
  **Assignment:** 
 
 - Read: 
-  - Excerpt from the book "Code" by Maureen (**Check back by Friday for this link!** )
+  - ~~Excerpt from the book "Code" by Maureen (**Check back by Friday for this link!** )~~[don't worry about this]
   - [Internet History -- One Page Summary](https://www.livinginternet.com/i/ii_summary.htm)  
   - John Perry Barlow (1996). [*A Declaration of the Independence of Cyberspace*](https://www.eff.org/cyberspace-independence   ). 
 - Do: 
