@@ -84,6 +84,33 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
+### Week 6 
+
+#### March 3: The Internet: an historical overview
+
+  *We spent the first six weeks walking through the process of what it means to do creative work, everything from evaluation, to what the work does, to how we present and show it. But that was all priming us to be able to do this is in a grander way, where we're responding to actual emerging technology. For the rest of the semester, we'll be focusing on two large topics: the internet and data + automation. You'll learn how to think about these from different perspectives and points of view, and then you'll be tasked with creating word that responds to them. We begin with the internet.*
+
+**Assignment:**
+
+- Read: 
+  - Julian Oliver - [Stealth Infrastructure](http://rhizome.org/editorial/2014/may/20/stealth-infrastructure/)   
+  - Kinniburgh, Colin. 'Beyond "Conflict Minerals": The Congo's Resource Curse Lives On.' Dissent Magazine, Spring 2014 issue. https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on 
+  - Jane Black, NYTimes, [Tiny Tuvalu Profits From Web Name](https://www.nytimes.com/2000/09/04/business/tiny-tuvalu-profits-from-web-name.html)
+  - Data & Society [Online Harassment, Digital Abuse](https://datasociety.net/blog/2017/01/18/online-harassment-digital-abuse/) blog post (2017)
+- Do:
+  - look at the [Algorithmic Citizenship](http://citizen-ex.com/citizenship) project by James Bridle
+  - check out Ingrid Burrington's [Field Guide to New York](http://seeingnetworks.in/nyc/) (note that Ingrid is a fellow at IMA this semester and can be a useful resource to you!)
+  - Once you've finished all of the readings and other assignments, write a 200-300 word response on one or both of the readings. What stood out to you? What is compelling, what are you still thinking about? What are you considering about the internet that you didn't know before? What do you want to know more about? Submit using homework form, week 6.1.
+
+#### March 5: The Internet: an infrastructural overview 
+
+*How does the internet actually work? How does it show up in our everyday lives? What kind of internet infrastructure can you identify in the city and the building?*
+
+ **Assignment:** 
+
+- Do:
+  - [coming soon!]
+
 ### Week 5
 
 #### Feb 25: Present Project 1 
