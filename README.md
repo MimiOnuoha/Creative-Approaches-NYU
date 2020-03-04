@@ -101,6 +101,7 @@ Here are the social codes we agreed on together on the first day:
   - look at the [Algorithmic Citizenship](http://citizen-ex.com/citizenship) project by James Bridle
   - check out Ingrid Burrington's [Field Guide to New York](http://seeingnetworks.in/nyc/) (note that Ingrid is a fellow at IMA this semester and can be a useful resource to you!)
   - Once you've finished all of the readings and other assignments, write a 200-300 word response on one or both of the readings. What stood out to you? What is compelling, what are you still thinking about? What are you considering about the internet that you didn't know before? What do you want to know more about? Submit using homework form, week 6.1.
+    - ALSO! Optional, but I'm interested on if there's anything that you would add into the Timeline that we made in class. What are significant dates for you? Feel free to write about this instead in your response. (You can find the timeline and some other resources in the week6 folder)
 
 #### March 5: The Internet: an infrastructural overview 
 
