@@ -24,3 +24,9 @@ THESE ARE THE ONES WE DIDN'T GET TO IN CLASS, MAKE SURE YOU LOOK AT THEM
 7. The Pudding, data visualizations https://pudding.cool/2017/01/making-it-big/ OR https://pudding.cool/2018/04/birthday-paradox/
 8. Portrait of Edward Belamy https://obvious-art.com/edmond-de-belamy.html
 9. Micha Cardenas, Autonets https://michacardenas.sites.ucsc.edu/autonets/
+
+
+
+EXTRA: 
+
+https://pippinbarr.github.io/the-artist-is-present-2/info/
