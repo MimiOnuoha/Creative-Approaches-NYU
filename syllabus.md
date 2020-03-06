@@ -239,14 +239,15 @@ For other inquiries, I can be reached via email at all times. During the week I 
  **Assignment:** 
 
 - Do:
-  - In the vein of the Field Guide to New York and the exercise we did in class today, go around your dorm, apartment, or neighborhood and try and notice how much internet infrastructure you see. Take pictures and document the experience on your blog. What are you seeing that you didn't notice before? Is this experience changing your idea of what it means to be "online"? Submit using homework form, Week 6.2.
-  - check out this artwork/project: [FIREWALL](https://hyperallergic.com/280849/surf-chinas-censored-web-at-an-internet-cafe-in-new-york/) (Joyce Yu-Jean Lee )
-  - fill out this two question form if there is someone in class who you would really like to work with on the next  project or really not like to work with
-- Read:
+  - In the vein of the [Field Guide to New York](http://seeingnetworks.in/nyc/) and the exercise we did in class today, go around your dorm, apartment, or neighborhood and try and notice how much internet infrastructure you see. Take pictures and document the experience on your blog. What are you seeing that you didn't notice before? Is this experience changing your idea of what it means to be "online"? Submit using homework form, Week 6.2. (If you weren't in class, ask a classmate!)
+  - check out this artwork/project: [FIREWALL](https://hyperallergic.com/280849/surf-chinas-censored-web-at-an-internet-cafe-in-new-york/) (Joyce Yu-Jean Lee ) 
+- Read (note: you don't have to write about your readings this week. Even still, you should choose a couple of these to read deeply—the ones that stand out to you— and the rest you can skim.)
   - Hill, Kasmir. "[How an internet mapping glitch turned a random Kansas farm into a digital hell.](https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052)" Splinter, April 2016.
   - Mukherjee, Aditya. "[I Can Text You A Pile of Poo, But I Can't Write My Name](https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name)". Model View Culture, Issue 18, March 2015.  
   - Safiya Noble, "Missed Connections: What Search Engines Say About Women" (readings folder)
-  - [optional] Sweeney, Latanya. "[Discrimination in Online Ad Delivery](http://delivery.acm.org/10.1145/2470000/2460278/p10-sweeney.pdf?ip=216.165.95.183&id=2460278&acc=OPEN&key=36E5A5D4E382B3FA%2E36E5A5D4E382B3FA%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572480442_aa53768b9c05f8df67df5202465bd392)" Queue Magazine, Volume 11 Issue 3, March 2013.   
+  - [How Does The Internet Work?](http://seeingnetworks.in/nyc/) 
+  - [optional] Sweeney, Latanya. "[Discrimination in Online Ad Delivery](http://delivery.acm.org/10.1145/2470000/2460278/p10-sweeney.pdf?ip=216.165.95.183&id=2460278&acc=OPEN&key=36E5A5D4E382B3FA%2E36E5A5D4E382B3FA%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1572480442_aa53768b9c05f8df67df5202465bd392)" Queue Magazine, Volume 11 Issue 3, March 2013.    
+  - [optional]  Neil Postman's "[Five Things We Need To Know About Technological Change](https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf)" 
 
 
 
@@ -285,6 +286,8 @@ For other inquiries, I can be reached via email at all times. During the week I 
 ### | Spring Break |
 
 *Relax, but still think about your project. In a calming sort of way.*
+
+Your only assignment: watch Werner Herzog's Lo and Behold. 
 
 ### Week 8 
 
