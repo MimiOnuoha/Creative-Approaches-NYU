@@ -84,6 +84,32 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
+
+
+### Week 7 
+
+#### March 10: Non-traditional class/housekeeping
+
+*Make sure everyone is on the same page about remote class.*
+
+#### March 12: The Internet: governance, connection, different experiences online 
+
+  *What are the experiences like of different people online? Are there inequities that are built into the medium.*
+
+**Assignment:**
+
+- Do:
+
+  - Begin thinking about ideas for project 2. For more information on the project, click on the "project2_guidelines" document in the project folder (it also says who is in what group! )
+
+  - For inspiration, check out Rhizome's [Net Art Anthology](https://anthology.rhizome.org/)
+
+  - More inspiration: Check out Julia Weist's piece (for background, read [this](https://www.newyorker.com/culture/culture-desk/a-new-word-on-the-internet))
+
+  -  Reach out to Arnab over email or Slack if you have any feedback or requests about our first remote class! 
+
+    
+
 ### Week 6 
 
 #### March 3: The Internet: an historical overview

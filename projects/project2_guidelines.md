@@ -4,15 +4,27 @@
 
 **Topic**: The Internet
 
-The internet has become an inherently interactive network that is crucial to how many of us conduct our lives today. For your second project, you need to work in teams to create a piece of work about the internet. 
+The internet has become an inherently interactive network that is crucial to how many of us conduct our lives today. For your second project, you need to work in teams to create an artwork or creative project about the internet. Think about all of the topics that we have covered— historical, infrastructural, experiential, and business model—about the internet. What stands out to you the most?  You could choose to focus on something that highlights a specific aspect of the internet (such as early 2000's blogging culture, [hypertext and nonlinearity online](https://twinery.org/), or the [different web experiences](https://www.washingtonpost.com/technology/2020/02/14/google-maps-political-borders/) of people in different countries) or you can create a speculative project about the future or past of the internet. Do whatever you want, but remember that what you are making should be a project. It must also be digital, or at least something that you and your group can work on remotely. You may want to consider Rhizome's [Net Art](https://anthology.rhizome.org/) Anthology for inspiration
 
-Your assignment is to choose any aspect of the internet (physical, cultural, historical, political, economic, cellular, etc) that is hidden or that you find surprising and find a way to communicate some aspect of it. It may help you to define an intended audience for yourself; if you can't come up with one, imagine that your audience is composed of your IMA classmates. It may also help you to come up with a piece that answers a question. Starting from a question can help you identify the things that you find interesting to explore, or give you a direction for consideration. 
-
-You will work in a group or with a partner on this project.
+If you are struggling, it may  help you to come up with a piece that answers a question. Starting from a question can help you identify the things that you find interesting to explore, or give you a direction for consideration. 
 
 ## Presentations
 
-Your presentations should be about 7 minutes long.  For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
+Your group presentations be about 17 minutes long.  For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
 
-You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) that is due the same week as your project. 
+You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) that is due the same week as your project. You only need one for the whole group. 
+
+
+
+## Project 2 Groups
+
+**Group 1:** Timmy,  James L, Niki
+
+**Group 2:** Tori, Korin,  Bailey 
+
+**Group 3:** Jide,  Andri, James B
+
+**Group 4:** Wanlun, Lucas, Carly, Nina
+
+**Group 5** Rosie, Jasmine, Sarah, Elaine 
 

@@ -286,12 +286,18 @@ Your only assignment: watch Werner Herzog's Lo and Behold.
 
  **Assignment:** 
 
+- Read: 
+  - Shoshana Zuboff, "[The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html) "
+  - Maciej Ceglowski,  ["The Internet With A Human Face"](http://idlewords.com/talks/internet_with_a_human_face.htm)
+  - [Blurred places on Google Maps](https://www.google.com/maps/place/44%C2%B008'41.4%22N+4%C2%B042'23.4%22E/@44.1430963,4.6991975,2435m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d44.1448333!4d4.7065) 
+
 - Do:
   - By now, you've ingested loads of material about the Internet, and you should have been thinking and writing about which parts are most interesting to you. Be prepared to come to class after Spring Break with a clear direction for a project  that you and your group mates will be ready to implement. You should write about this on your blog and submit using the homework form (week 7.2), but I expect you to have more than just some text about the project. Come with something that shows you've already begun tinkering:  sample code, a mood board, a quick prototype, images, etc. 
   - [optional] Look at the following projects for inspiration over break:
     - [A Refusal](https://americanartist.us/a-refusal) (American Artist)
     - [The Infinite Campaign](https://lav.io/projects/the-infinite-campaign/) (Sam Lavigne)
     - [El Paquete](http://seeingnetworks.in/nyc/) (Julia Weist, Nestor Sire)
+    - Look at the [AdNauseam](https://adnauseam.io/) project (Helen Nissenbaum, Mushon Zer-Aviv)  
     - [Being Invisible Can Be Deadly](https://www.youtube.com/watch?v=kKAKgrZZ_ww) (Hito Steyerl - note that this is the vid about the project) 
     - [OPTIONAL] There are lots of things we haven't talked about! Consider diving into forms of art facilitated by the internet: [Internet Art](https://whitney.org/exhibitions/artport/commissions/sunrise-sunset), [Tumblr art](http://izumimiyazaki.tumblr.com/), [meme art](https://anthology.rhizome.org/untitled-clefa), [work that uses the language of the net rather focusing on the structure of the net](http://refrakt.org/slide-to-expose/), [work based on old websites](https://hyperallergic.com/230415/hundreds-of-geocities-images-organized-neatly/), and basically [anything from these two](http://www.blacknetart.com/index1_1.html)
 
@@ -305,7 +311,7 @@ Your only assignment: watch Werner Herzog's Lo and Behold.
 
 ### Week 9 
 
-#### March 31: Presentations: Project 2 
+#### March 31: Work on Project 2 
 
   *For your project 2 presentations, you have more time than you did for the first one. Think of how best to utilize the time you have.*
 
@@ -315,8 +321,6 @@ Your only assignment: watch Werner Herzog's Lo and Behold.
   - Your documentation post for project 2. Use homework form to submit. 
 
 #### April 2: Presentations: Project 2  
-
-*They get more time to present this week, we expect it to be better and far more refined.*
 
  **Assignment:** 
 
