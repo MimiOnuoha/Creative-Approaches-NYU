@@ -99,8 +99,8 @@ Here are the social codes we agreed on together on the first day:
 
 - Do:
   - Think about ways in which your social experience of the internet has changed as a result of the pandemic. What are the sites, apps, platforms, and ways of connection that are saving you right now? 
-  - Take care of yourselves! 
-  - NOTE: As I said in class, I'm not asking you to write about the readings anymore, but if you have the space/time/motivation I recommend still skimming them! In a life sense, it's  useful these days to be aware of how the Internet works and advertising remains really essential to that. 
+  -  Take care of yourselves! Take walks (maintain social distancing!), reach out to NYU's [health and wellness](https://www.nyu.edu/students/health-and-wellness.html) if you need, stay in touch with friends, support one another. Do not hesitate to reach out to me if anything changes in your situation or you find yourself struggling to focus. 
+  - NOTE: As I said in class, I'm not asking you to write about the readings anymore. **If and only if** you have the space/time/motivation, I'd recommend skimming them. In a life sense, it's useful to be aware of how the Internet works and advertising remains really essential to that. 
 
 #### March 26: The Internet: connection in the age of covid-19
 
