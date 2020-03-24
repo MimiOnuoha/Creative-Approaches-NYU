@@ -98,7 +98,7 @@ Here are the social codes we agreed on together on the first day:
   - Shoshana Zuboff, "[The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html) " (FYI: this is a hard read)
 
 - Do:
-  - Think about ways in which your social experience of the internet has changed as a result of the pandemic. What are the sites and places that are saving you right now? 
+  - Think about ways in which your social experience of the internet has changed as a result of the pandemic. What are the sites, apps, platforms, and ways of connection that are saving you right now? 
   - NOTE: As I said in class, I'm not asking you to write about the readings anymore, but if you have the space/time I recommend still skimming them! It's especially useful these days to be aware of how the Internet works and advertising remains really essential to it. 
 
 #### March 26: The Internet: connection in the age of covid-19
