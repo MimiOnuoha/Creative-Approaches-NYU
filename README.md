@@ -84,7 +84,28 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
+### Week 8 
 
+#### March 24: The Internet: advertising, business model, and platform accountability 
+
+*Find the recording of class [here](https://nyu.zoom.us/rec/share/ycFRBZbJqEdIc5Xf2U36AYd7Jrb1aaa80HQd_fMNyRwYE5pIFeCvyVhZU6esUv6P)*
+
+ **Assignment:** 
+
+- Read:  
+  - Maciej Ceglowski,  ["The Internet With A Human Face"](http://idlewords.com/talks/internet_with_a_human_face.htm)
+  - [Blurred places on Google Maps](https://www.google.com/maps/place/44%C2%B008'41.4%22N+4%C2%B042'23.4%22E/@44.1430963,4.6991975,2435m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d44.1448333!4d4.7065)  
+  - Shoshana Zuboff, "[The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html) " (FYI: this is a hard read)
+
+- Do:
+  - Think about ways in which your social experience of the internet has changed as a result of the pandemic. What are the sites and places that are saving you right now? 
+  - NOTE: As I said in class, I'm not asking you to write about the readings anymore, but if you have the space/time I recommend still skimming them! It's especially useful these days to be aware of how the Internet works and advertising remains really essential to it. 
+
+#### March 26: The Internet: connection in the age of covid-19
+
+*Working through the way that capitalism and advertising affect the Internet that we experience.*
+
+ **Assignment:** 
 
 ### Week 7 
 
