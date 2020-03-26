@@ -315,12 +315,13 @@ Your only assignment: watch Werner Herzog's Lo and Behold.
 
   *For your project 2 presentations, you have more time than you did for the first one. Think of how best to utilize the time you have.*
 
-**Assignment:**
+#### April 2: Work on Project 2 
 
-- Do:
-  - Your documentation post for project 2. Use homework form to submit. 
+  *For your project 2 presentations, you have more time than you did for the first one. Think of how best to utilize the time you have.*
 
-#### April 2: Presentations: Project 2  
+### Week 10
+
+#### April 7: Presentations: Project 2  
 
  **Assignment:** 
 
@@ -331,9 +332,9 @@ Your only assignment: watch Werner Herzog's Lo and Behold.
 - Do: 
   - Eventually we want you to have a week's worth of your own personal data that we can work with: either the things you searched on Google, the places you traveled, the music you listened to, etc. Start the process for that this week. Important: do not tell anyone else what you are doing! (Arnab workshop, maybe we assign them things so that they can switch with each other and do the same processes). 
 
-### Week 10
+### 
 
-#### April 7: An overview of data 
+#### April 9: An overview of data 
 
   *Now we move into the final few weeks of class where we'll be talking about data and automation. This is your final project, and this section is different because you get time that is built in to actually refine and iterate on your projects. In class we'll define data and do an exercise to see how much sense you can make of a particular dataset. An understanding of the forms that data takes and what it means to work with it.*  
 

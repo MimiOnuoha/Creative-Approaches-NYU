@@ -10,9 +10,11 @@ If you are struggling, it may  help you to come up with a piece that answers a q
 
 ## Presentations
 
-Your group presentations be about 17 minutes long.  For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
+Your group presentations will be about 17 minutes long. **YOU DON'T HAVE TO PRESENT FOR ALL OF THIS TIME. **  You should shoot for a presentation that's 5-10 minutes. For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
 
-You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) that is due the same week as your project. You only need one for the whole group. 
+**Your presentations will take place on April 7.**
+
+
 
 
 
