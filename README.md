@@ -110,7 +110,7 @@ Here are the social codes we agreed on together on the first day:
 
  - Do:
     - Enjoy a rare writing assignment: Keeping in mind everything that we have discussed, read, and learned in the past few weeks, write up 200-400 words about the ideas and topics that have resonated with you the most about the Internet. What are you planning or would you like to explore with your group for the second project? Submit using the homework form under any of the categories for week 8. 
-      	-  NOTE: please take this seriously. It's not too many words and it will help Arnab and I as we're trying to support you in the upcoming weeks
+      	-  NOTE: please take this seriously. It's not too many words and it will help Arnab and I as we're trying to support you in the upcoming weeks.
  - Do not:
    	- Do anything else! In exchange for this writing assignment, you are not expected or required to meet with your group over the weekend. You can use the time in class next week to meet. This should make things a bit easier for those of you who are in different timezones. 
 
