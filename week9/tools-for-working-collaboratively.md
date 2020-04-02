@@ -13,7 +13,7 @@
 
 - [MURAL](https://mural.co/) - MURAL is  great for brainstorming and doing collaborative design thinking (Mostly in the form of diagrams, sticky notes, etc.   
 - [Are.na](https://www.are.na/) - Are.na is another visual organization tool. You can create a channel and then add anything to it, including images, links, files, and texts. 
-- [Figma](https://www.figma.com/) - ask Arnab about this one. I don't know it.  
+- [Figma](https://www.figma.com/) - Log in with your nyu email and you can have unlimited people working at once.  
 
 
 
