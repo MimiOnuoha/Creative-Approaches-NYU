@@ -84,7 +84,7 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
-### Week 11
+### Week 10
 
 #### April 7: Work on project 2 in class 
 
