@@ -84,6 +84,41 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
+### Week 11
+
+#### April 7: Work on project 2 in class 
+
+*Because of the shift to remote class, you're intentionally being given extra time in class to work on your projects. You will likely still have to do work outside of our class time, but you can use this time to meet with your group for collaborative work and discussion.*
+
+ **Assignment:** 
+
+ - Do:
+   - Whatever is required for your project. 
+
+#### April 9: Present Project 2 
+
+*Presentations! Check back here for order. *
+
+ **Assignment:** 
+
+ - Do:
+   - Fill out this survey (link forthcoming)
+
+### Week 9
+
+#### March 31: Work on project 2 in class 
+
+*Because of the shift to remote class, you're intentionally being given extra time in class to work on your projects. You will likely still have to do work outside of our class time, but you can use this time to meet with your group for collaborative work and discussion.*
+
+#### April 2: Work on project 2 in class 
+
+*Because of the shift to remote class, you're intentionally being given extra time in class to work on your projects. You will likely still have to do work outside of our class time, but you can use this time to meet with your group for collaborative work and discussion.*
+
+ **Assignment:** 
+
+ - Do:
+   - Whatever is required for your project. 
+
 ### Week 8 
 
 #### March 24: The Internet: advertising, business model, and platform accountability 
@@ -337,8 +372,4 @@ Here are the social codes we agreed on together on the first day:
   - Fill out the office hours Doodle: https://doodle.com/poll/b954zydr7a5cw3vs
   - After you've done the readings, write 400-500 words on your relationship to art, and specifically what forms of creative content inspire you. What types of things do you think about when you imagine the work you'd like to create? You can talk about books, movies, anime, plays, musicals, graphic novels, poetry, installations, fanfiction/fanart, or any form of creative content. What is it that inspires you about it specifically? Is it the tone, the way it makes you feel, the design work, the twists in the story, etc?   You're here in a program about making art (or at the very least in a class about it), how do you see your relationship to creative content? 
     - Diaz talks about what it means for indigenous people to create art that is necessarily outside of the mainstream. Is there anything about this that resonates with you? Have you thought about what position the art or creative content that you enjoy holds, and what it means for you to like and know about it? 
-
-
-
-- - 
 
