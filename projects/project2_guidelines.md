@@ -10,11 +10,15 @@ If you are struggling, it may  help you to come up with a piece that answers a q
 
 ## Presentations
 
-Your group presentations will be about 17 minutes long. **YOU DON'T HAVE TO PRESENT FOR ALL OF THIS TIME. **  You should shoot for a presentation that's 5-10 minutes. For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
+You have 17 minutes to use for your presentation. Keep in mind that this includes time for questions. You should shoot for a presentation that's 5-10 minutes. For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
 
-**Your presentations will take place on April 7.**
+**Your presentations will take place on April 9.** See below for information about order and structure. 
 
+- For each group that presents, there will be one group providing written feedback and another group that is providing verbal feedback. 
+- If you're providing written feedback, you'll just use this very simple form which has four questions. https://forms.gle/noArLub33oUMXouk8 
+- If you're providing verbal feedback, then you have to respond with something: a comment, question, suggestion. That way we can have a conversation. 
 
+![CAEM-project2presentation](/Users/mimio/Desktop/CAEM-project2presentation.png)
 
 
 
@@ -30,3 +34,4 @@ Your group presentations will be about 17 minutes long. **YOU DON'T HAVE TO PRES
 
 **Group 5** Rosie, Jasmine, Sarah, Elaine 
 
+[](https://twitter.com/tifffanycuh/status/1246227095522553857)
