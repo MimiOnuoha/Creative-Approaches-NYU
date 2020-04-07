@@ -12,26 +12,26 @@ If you are struggling, it may  help you to come up with a piece that answers a q
 
 You have 17 minutes to use for your presentation. Keep in mind that this includes time for questions. You should shoot for a presentation that's 5-10 minutes. For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
 
-**Your presentations will take place on April 9.** See below for information about order and structure. 
+**Your presentations will take place on April 9.** 
+
+- What we're looking for in your projects is a strong concept, a prototype that communicates it, and a demonstration of effort. 
 
 - For each group that presents, there will be one group providing written feedback and another group that is providing verbal feedback. 
-- If you're providing written feedback, you'll just use this very simple form which has four questions. https://forms.gle/noArLub33oUMXouk8 
-- If you're providing verbal feedback, then you have to respond with something: a comment, question, suggestion. That way we can have a conversation. 
-
-![CAEM-project2presentation](/Users/mimio/Desktop/CAEM-project2presentation.png)
-
+  - If you're providing written feedback, you'll just use this very simple form which has four questions. https://forms.gle/noArLub33oUMXouk8 
+  - If you're providing verbal feedback, then you have to respond with something: a comment, question, suggestion. That way we can have a conversation. 
+- Please be on time! We'll start right at 9am so that we can have the maximum amount of time. 
 
 
-## Project 2 Groups
 
-**Group 1:** Timmy,  James L, Niki
+| Group Presenting                           | **Verbal Responders**                      | **Written Responders**                     |
+| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| **Group 1:** Timmy, James L, Niki          | **Group 3:** Jide, Andri, James B          | **Group 5:** Rosie, Jasmine, Sarah, Elaine |
+| **Group 2:** Tori, Korin, Bailey           | **Group 4:** Wanlun, Lucas, Carly, Nina    | **Group 1:** Timmy, James L, Niki          |
+| **Group 3:** Jide, Andri, James B          | **Group 5:** Rosie, Jasmine, Sarah, Elaine | **Group 2:** Tori, Korin, Bailey           |
+| **Group 4:** Wanlun, Lucas, Carly, Nina    | **Group 1:** Timmy, James L, Niki          | **Group 3:** Jide, Andri, James B          |
+| **Group 5:** Rosie, Jasmine, Sarah, Elaine | **Group 2:** Tori, Korin, Bailey           | **Group 4:** Wanlun, Lucas, Carly, Nina    |
+|                                            |                                            |                                            |
 
-**Group 2:** Tori, Korin,  Bailey 
 
-**Group 3:** Jide,  Andri, James B
 
-**Group 4:** Wanlun, Lucas, Carly, Nina
 
-**Group 5** Rosie, Jasmine, Sarah, Elaine 
-
-[](https://twitter.com/tifffanycuh/status/1246227095522553857)
