@@ -97,12 +97,12 @@ Here are the social codes we agreed on together on the first day:
 
 #### April 9: Present Project 2 
 
-*Presentations! Check back here for order. *
+*Presentations* 
 
  **Assignment:** 
 
  - Do:
-   - Fill out this survey (link forthcoming)
+   - Fill out this survey: https://forms.gle/SNTTzr5eZVUU3Hbe8 
 
 ### Week 9
 
