@@ -84,6 +84,30 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
+### Week 11
+
+#### April 14: An overview of data 
+
+  *Now we move into the final few weeks of class where we'll be talking about data and automation. This is your final project, and this section is different because you get time that is built in to actually refine and iterate on your projects. In class we'll define data and do an exercise to see how much sense you can make of a particular dataset. An understanding of the forms that data takes and what it means to work with it.*  
+
+**Assignment:**
+
+- Read (optional):
+
+  - Introduction to *Sorting Things Out*  by Geoffrey Bowker and Susan Leigh Starr (readings folder )
+  - "Representation and the Necessity of Interpretation" by Laura Kurgan (excerpt from *Close Up At A Distance*, see readings folder)
+  -  [The Point of Collection](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa)
+  
+- Do (optional):
+
+  - Check out this project: [Iyapo Repository](https://creators.vice.com/en_us/article/8qv34x/afrofuturist-museum-artifacts-from-the-future) (Salome Asega  + Ayodamola Okunseinde)
+  
+  
+
+#### April 16: Data, surveillance and information flows 
+
+
+
 ### Week 10
 
 #### April 7: Work on project 2 in class 

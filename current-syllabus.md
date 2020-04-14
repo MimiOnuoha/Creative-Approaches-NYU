@@ -330,7 +330,7 @@ Your only assignment: watch Werner Herzog's Lo and Behold.
   - "The end of forgetting: Strategic agency beyond the panopticon" by Jonah Bossewitch and Aram Sinnreich (see readings folder) 
   - [Art Against Information](http://eleven.fibreculturejournal.org/fcj-067-art-against-information-case-studies-in-data-practice/) by Mitchell Whitelaw 
 - Do: 
-  - Eventually we want you to have a week's worth of your own personal data that we can work with: either the things you searched on Google, the places you traveled, the music you listened to, etc. Start the process for that this week. Important: do not tell anyone else what you are doing! (Arnab workshop, maybe we assign them things so that they can switch with each other and do the same processes). 
+  - Eventually we want you to have a week's worth of your own personal data that we can work with: either the things you searched on Google, the places you traveled, the music you listened to, etc. Start the process for that this week. Important: do not tell anyone else what you are doing! 
 
 ### 
 
