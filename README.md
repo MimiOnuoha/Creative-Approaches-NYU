@@ -106,7 +106,16 @@ Here are the social codes we agreed on together on the first day:
 
 #### April 16: Data, surveillance and information flows 
 
+*Find class presentation in the week11 folder*
 
+- Read (optional):
+  - "The end of forgetting: Strategic agency beyond the Panopticon", Jonah Bossevitch and Aram Sinnreich (in readings folder)
+  - ["The Libidinal: A Conversation with Akram Zatari"](https://www.tate.org.uk/research/publications/tate-papers/19/the-libidinal-archive-a-conversation-with-akram-zaatari) , Chad Elias 
+  - "[Archive and Database as Metaphor: Theorizing the Historical Record](http://dspace.mit.edu/bitstream/handle/1721.1/71216/Manoff10.4.pdf?sequence=1)", Marlene Manoff
+  - "[An Archival Impulse](https://poderesunidosstudio.files.wordpress.com/2009/12/hal-foster-an-archival-impulse.pdf)", Hal Foster 
+  -  ""[Positivism, Foucault, and the Fantasia of the Library: Conceptions of Knowledge and the Modern Library Experience](https://www.jstor.org/stable/pdf/4308741.pdf?refreqid=excelsior%3Ab9fa96f0c3481130bc077ec73251c7db)" Gary P Radford 
+  - "[Index of the Disappeared](https://www.mariamghani.com/work/626)", Chitra Ganesh and Mariam Ghani
+  - "[Afrofuturist Museum Mines Artifacts from the Future](https://www.vice.com/en_us/article/8qv34x/afrofuturist-museum-artifacts-from-the-future)", Salome Asega 
 
 ### Week 10
 
