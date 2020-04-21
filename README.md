@@ -84,6 +84,22 @@ Here are the social codes we agreed on together on the first day:
 
 ## Syllabus
 
+### Week 12
+#### April 21: Guest presentation on Disinformation
+
+Assignment:
+
+- Read (optional):
+	- ["You May Not Even Know You're Spreading Lies"](https://www.wired.com/story/you-may-not-even-know-youre-spreading-lies/), Whitney Phillips for WIRED 
+
+- Do (**required**):
+
+	- If you are participating in the debates, fill out this sheet: https://github.com/MimiOnuoha/Creative-Approaches-NYU/wiki/Debate-Sign-up. You will need to be signed into Github to edit it. If you cannot edit it, just email me the debate you want to participate in and which side you'll be on.
+	- If you are doing a project, it's time to begin coming up with an idea for it. Make sure to check out the [project 3 information shee](https://github.com/MimiOnuoha/Creative-Approaches-NYU/blob/master/projects/project3_guidelines.md)t. 
+
+
+
+
 ### Week 11
 
 #### April 14: An overview of data 
