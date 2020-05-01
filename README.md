@@ -102,7 +102,7 @@ Here are the social codes we agreed on together on the first day:
 
 
 ### Week 12
-#### April 21: Guest presentation on Disinformation
+#### April 23: Social Algorithms 
 
 Assignment:
 
@@ -117,7 +117,7 @@ Assignment:
 	
 	#### April 21: Guest presentation on Disinformation
 	
-	*Find class presentation in the week12 folder*
+	*Find guest presentation [here](https://docs.google.com/presentation/d/1WCK7ew2VIGFoiVU_ee7z3o9oJ6rHKptxGieKBoW-aBA/edit)*
 	
 	Assignment:
 	
